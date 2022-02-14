@@ -14,9 +14,9 @@
 ```javascript
 const car = {
   pronouns: "she" | "her",
-  code: [SwiftUI, UIKit, HTML, CSS, JavaScript, Python],
+  code: [Swift, SwiftUI, UIKit, HTML, CSS, JavaScript, Python],
   tool of choice: [XCode],
-  challenge: "I am doing the '100 Days of SwiftUI' project from Hacking With Swift (Paul Hudson)"
+  challenge: "I am doing the '100 Days of SwiftUI' project from Hacking With Swift (Paul Hudson), checking out Appcoda's iOS Programming book and Dr Angela Yu's iOS & Swift - The Complete iOS App Development Bootcamp course. Schedule's looking pretty packed right now! 😅"
 }
 ```
 
