@@ -23,7 +23,7 @@ const car = {
 }
 ```
 
-<img src="https://media1.giphy.com/media/dUfpiUa5Qr4LspOwhL/giphy.gif" width="60"><p>Fun fact about me: I used to have actual penpals (and real mail, at that).<br>
+<p><img src="https://media1.giphy.com/media/dUfpiUa5Qr4LspOwhL/giphy.gif" width="60">Fun fact about me: I used to have actual penpals (and real mail, at that).<br>
   That love for making new connections and friends grew into meeting all kinds of people on the internet, from everywhere around the world. ^^</p>
 
 ---
