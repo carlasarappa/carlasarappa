@@ -16,11 +16,15 @@ const car = {
   pronouns: "she" | "her",
   code: [Swift, SwiftUI, UIKit, HTML, CSS, JavaScript, Python],
   tool of choice: [XCode],
-  challenge: "I am doing the '100 Days of SwiftUI' project from Hacking With Swift (Paul Hudson), checking out Appcoda's iOS Programming book and Dr Angela Yu's iOS & Swift - The Complete iOS App Development Bootcamp course. Schedule's looking pretty packed right now! 😅"
+  challenge: "I am doing the '100 Days of SwiftUI' project from Hacking With Swift (Paul Hudson), 
+  also checking out Appcoda's iOS Programming book and Dr Angela Yu's 
+  iOS & Swift - The Complete iOS App Development Bootcamp course. 
+  Schedule's looking pretty packed right now! 😅"
 }
 ```
 
-<img src="https://media1.giphy.com/media/dUfpiUa5Qr4LspOwhL/giphy.gif" width="60"><p>Fun fact about me: I used to have actual penpals (and real mail, at that). That love for making new connections and friends grew into meeting all kinds of people on the internet, from everywhere around the world. ^^</p>
+<img src="https://media1.giphy.com/media/dUfpiUa5Qr4LspOwhL/giphy.gif" width="60"><p>Fun fact about me: I used to have actual penpals (and real mail, at that).<br>
+  That love for making new connections and friends grew into meeting all kinds of people on the internet, from everywhere around the world. ^^</p>
 
 ---
 
