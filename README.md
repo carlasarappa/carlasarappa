@@ -12,9 +12,9 @@
 ```javascript
 const car = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Java],
-  tools: [Still learning],
-  challenge: "I am doing the 'Catch of the Day' project based on Wes Bos' React for Beginners course"
+  code: [SwiftUI, UIKit, HTML, CSS, JavaScript, Python],
+  tool of choice: [XCode],
+  challenge: "I am doing the '100 Days of SwiftUI' project from Hacking With Swift (Paul Hudson)"
 }
 ```
 
@@ -22,7 +22,7 @@ const car = {
 
 ---
 
-⭐️ Thanks [@Thaiane] for this template! (https://github.com/Thaiane)
+⭐️ Thanks @Thaiane for this template! (https://github.com/Thaiane)
 
 <!--
 **carlasarappa/carlasarappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
