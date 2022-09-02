@@ -1,8 +1,8 @@
 <h2> Hi there, I'm Carla <img src="https://media0.giphy.com/media/S8Gj5ShbFsH011mZIS/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/L12Zh0n6ut42L1CeJg/giphy.gif" width="200">
-<p><img src="https://media2.giphy.com/media/gLzyDbZHPBPkGmzvQH/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;I am a Senior QA Analyst based in Barcelona</br>
+<p><img src="https://media2.giphy.com/media/gLzyDbZHPBPkGmzvQH/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;I am a Jr iOS developer based in Barcelona</br>
 <img src="https://media2.giphy.com/media/gLzyDbZHPBPkGmzvQH/giphy.gif" width="30">&nbsp;&nbsp;Computer Science and Programming student at <a href="https://www.unq.edu.ar/">UNQ</a><br>
-<img src="https://media2.giphy.com/media/gLzyDbZHPBPkGmzvQH/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;I like new adventures, so I'm learning iOS app development right now :).
+<img src="https://media2.giphy.com/media/gLzyDbZHPBPkGmzvQH/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;I used to work as a Senior QA analyst in the past, but I took the plunge and move onto mobile development. :)
 </p>
 
 [![Linkedin: Carla Sarappa](https://img.shields.io/badge/-CarlaSarappa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlasarappa/)](https://www.linkedin.com/in/carlasarappa/)
@@ -14,10 +14,9 @@
 ```javascript
 const car = {
   pronouns: "she" | "her",
-  code: [Swift, SwiftUI, UIKit, HTML, CSS, JavaScript, Python],
+  code: [Swift, SwiftUI, UIKit,
   tool of choice: [XCode],
-  challenge: "I am doing the '100 Days of SwiftUI' project from Hacking With Swift (Paul Hudson), 
-  also checking out Appcoda's iOS Programming book and Dr Angela Yu's 
+  challenge: "I am doing the '100 Days of SwiftUI' project from Hacking With Swift (Paul Hudson), checking out Appcoda's iOS Programming book and Dr Angela Yu's 
   iOS & Swift - The Complete iOS App Development Bootcamp course. 
   Schedule's looking pretty packed right now! 😅"
 }
