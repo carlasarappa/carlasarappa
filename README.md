@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Carla <img src="https://media0.giphy.com/media/S8Gj5ShbFsH011mZIS/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/L12Zh0n6ut42L1CeJg/giphy.gif" width="200">
 <p><img src="https://media2.giphy.com/media/gLzyDbZHPBPkGmzvQH/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;I am a Jr iOS developer based in Barcelona</br>
-<img src="https://media2.giphy.com/media/gLzyDbZHPBPkGmzvQH/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;I used to work as a Senior QA analyst in the past, but I took the plunge and move onto mobile development. :)
+<img src="https://media2.giphy.com/media/gLzyDbZHPBPkGmzvQH/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;I used to work as a Senior QA analyst in the past, but I took the plunge and moved onto mobile development. :)
 </p>
 
 [![Linkedin: Carla Sarappa](https://img.shields.io/badge/-CarlaSarappa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlasarappa/)](https://www.linkedin.com/in/carlasarappa/)
